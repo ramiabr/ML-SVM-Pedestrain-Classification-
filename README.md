@@ -9,9 +9,13 @@ This software will detect if humans are present in the given picture or not (out
 
 Based on: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) 
 
+## Histogram of Gradients (HOG):
+![alt text](https://github.com/ramiabr/ML-SVM-Pedestrain-Classification-/blob/master/Data/Hog.PNG)
+
 ## Training Dataset Source:
 http://pascal.inrialpes.fr/data/human/
 
 
-
+## Results:
+SVM binary classifier accurately predicted 102/125 Images Correctly ~ # 80% #   
 
