@@ -17,5 +17,5 @@ http://pascal.inrialpes.fr/data/human/
 
 
 ## Results:
-SVM binary classifier accurately predicted 102/125 Images Correctly ~ # 80% #   
+SVM binary classifier accurately predicted 102/125 Images Correctly ~ 80%   
 
