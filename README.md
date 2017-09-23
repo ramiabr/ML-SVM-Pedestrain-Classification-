@@ -7,6 +7,11 @@ This software will detect if humans are present in the given picture or not (out
 ## Block Diagram:
 ![alt text](https://github.com/ramiabr/ML-SVM-Pedestrain-Classification-/blob/master/Data/block_diagram.png)
 
+Based on: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) 
+
+## Training Dataset Source:
+http://pascal.inrialpes.fr/data/human/
+
 
 
 
