@@ -13,9 +13,12 @@ Based on: 2005 IEEE Computer Society Conference on Computer Vision and Pattern R
 ![alt text](https://github.com/ramiabr/ML-SVM-Pedestrain-Classification-/blob/master/Data/Hog.PNG)
 
 ## Training Dataset Source:
+Positive Samples:  600
+Negative Samples:  1200
+
 http://pascal.inrialpes.fr/data/human/
 
 
 ## Results:
-SVM binary classifier accurately predicted 102/125 Images Correctly ~ 80%   
+SVM binary classifier accurately predicted 486/600 Images Correctly ~ 80%   
 
